@@ -203,7 +203,7 @@ Assurez-vous d'avoir des processus clairs et connus de vos personnels concernant
 
 Un incident majeur qui remonte rapidement aux experts peut vous permettre d'atténuer l'impact d'une cyberattaque.
 # Récapitulatif
-![summary](./Images/Schema.png)
+![summary](./Images/schema.png)
 # En savoir plus
 ![Source](./Images/Sources.jpg)
 
